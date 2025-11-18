@@ -1,4 +1,3 @@
-# Update the Ultrasonic sensor value in Things Mate
 ## NAME : JANANI S
 ## REG NO : 212223230086
 
